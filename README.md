@@ -3,7 +3,7 @@
 ## Author
 Shalodin chepkoech
 ## Description
-This is Angular CLi Application that uses Github API,to show  individual github account profile, and repositories
+This is Angular CLi Application that uses Github API,to show  individual github account profile, and their repositories
 
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 12.2.1.
