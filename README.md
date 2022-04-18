@@ -41,7 +41,8 @@ ng serve -o to open the Application
 3. Angular CLI(TS)
 4. Bootstrap
 
-
+## Contact
+For further information contact shalodinchepkoech@gmail.com
 
 
 
